@@ -16,11 +16,11 @@
 
 ### nest.js 설치
 
-npm i -g @nestjs/cli
+$ npm i -g @nestjs/cli
 
 ### 새 프로젝트 생성
 
-nest new project-name
+$ nest new project-name
 
 - port 3000
 - start 후 브라우저에서 hello world 노출 확인
